@@ -1,0 +1,14 @@
+C:\Users\Михаил\source\repos\Lab7\Lab7.WebApi\bin\Debug\netcoreapp2.1\Lab7.WebApi.deps.json
+C:\Users\Михаил\source\repos\Lab7\Lab7.WebApi\bin\Debug\netcoreapp2.1\Lab7.WebApi.runtimeconfig.json
+C:\Users\Михаил\source\repos\Lab7\Lab7.WebApi\bin\Debug\netcoreapp2.1\Lab7.WebApi.runtimeconfig.dev.json
+C:\Users\Михаил\source\repos\Lab7\Lab7.WebApi\bin\Debug\netcoreapp2.1\Lab7.WebApi.dll
+C:\Users\Михаил\source\repos\Lab7\Lab7.WebApi\bin\Debug\netcoreapp2.1\Lab7.WebApi.pdb
+C:\Users\Михаил\source\repos\Lab7\Lab7.WebApi\obj\Debug\netcoreapp2.1\Lab7.WebApi.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\Lab7\Lab7.WebApi\obj\Debug\netcoreapp2.1\Lab7.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Lab7\Lab7.WebApi\obj\Debug\netcoreapp2.1\Lab7.WebApi.RazorAssemblyInfo.cache
+C:\Users\Михаил\source\repos\Lab7\Lab7.WebApi\obj\Debug\netcoreapp2.1\Lab7.WebApi.RazorAssemblyInfo.cs
+C:\Users\Михаил\source\repos\Lab7\Lab7.WebApi\obj\Debug\netcoreapp2.1\Lab7.WebApi.AssemblyInfoInputs.cache
+C:\Users\Михаил\source\repos\Lab7\Lab7.WebApi\obj\Debug\netcoreapp2.1\Lab7.WebApi.AssemblyInfo.cs
+C:\Users\Михаил\source\repos\Lab7\Lab7.WebApi\obj\Debug\netcoreapp2.1\Lab7.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Михаил\source\repos\Lab7\Lab7.WebApi\obj\Debug\netcoreapp2.1\Lab7.WebApi.dll
+C:\Users\Михаил\source\repos\Lab7\Lab7.WebApi\obj\Debug\netcoreapp2.1\Lab7.WebApi.pdb
